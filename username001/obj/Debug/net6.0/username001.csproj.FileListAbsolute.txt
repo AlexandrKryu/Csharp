@@ -3,3 +3,13 @@ F:\Developer\Csharp\username001\obj\Debug\net6.0\username001.GeneratedMSBuildEdi
 F:\Developer\Csharp\username001\obj\Debug\net6.0\username001.AssemblyInfoInputs.cache
 F:\Developer\Csharp\username001\obj\Debug\net6.0\username001.AssemblyInfo.cs
 F:\Developer\Csharp\username001\obj\Debug\net6.0\username001.csproj.CoreCompileInputs.cache
+F:\Developer\Csharp\username001\bin\Debug\net6.0\username001.exe
+F:\Developer\Csharp\username001\bin\Debug\net6.0\username001.deps.json
+F:\Developer\Csharp\username001\bin\Debug\net6.0\username001.runtimeconfig.json
+F:\Developer\Csharp\username001\bin\Debug\net6.0\username001.dll
+F:\Developer\Csharp\username001\bin\Debug\net6.0\username001.pdb
+F:\Developer\Csharp\username001\obj\Debug\net6.0\username001.dll
+F:\Developer\Csharp\username001\obj\Debug\net6.0\refint\username001.dll
+F:\Developer\Csharp\username001\obj\Debug\net6.0\username001.pdb
+F:\Developer\Csharp\username001\obj\Debug\net6.0\username001.genruntimeconfig.cache
+F:\Developer\Csharp\username001\obj\Debug\net6.0\ref\username001.dll
